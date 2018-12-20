@@ -1,0 +1,338 @@
+#headerbox{
+	height: 75px;
+	width: 100%;
+	margin: 0px auto;
+	background-color: rgb(158,158,158);
+	box-shadow: 0px 0px 0px 10px rgb(158,158,158);
+
+}
+
+#mainimg{
+	float: left; 
+	padding: 0px 25px;
+}
+
+#headerlist{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+
+.headlist{
+	float: right;
+}
+
+.headlist a{
+	display: inline-block;
+	color: white;
+	text-align: center;
+	padding: 7px 75px;
+	text-decoration: none;
+	font-family: "Agency FB", Arial, Helvetica, sans-serif;
+	font-size: 150%;
+}
+
+#welcome{
+	padding-top: 35px;
+	text-align: center;
+	font-size: 45px;
+	font-family: Courier, "Times New Roman", Times;
+}
+
+#construction{
+	padding-top: 15px;
+	text-align: center;
+	font-size: 25px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+#projectset{
+	background-color: rgb(47,81,177);
+}
+
+#projecttitle{
+	text-align: center;
+	padding-top: 25px;
+	color: white;
+	font-family: "Rockwell", Arial, Helvetica, sans-serif;
+}
+#projectlistul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+
+.projectlist{
+	float: left;
+}
+
+.projectlist a{
+	display: inline-block;
+	color: white;
+	text-decoration: none;
+	font-family: "Agency FB", Arial, Helvetica, sans-serif;
+	font-size: 150%;
+}
+
+#projecta{
+	position: relative;
+	left: 22%;
+}
+#projectb{
+	position: relative;
+	left: 42%;
+}
+#projectc{
+	position: relative;
+	left: 62%;
+}
+
+#projectimgdiv{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+
+.projectimg{
+	float: left;
+}
+
+.projectimg a{
+	display: inline-block;
+}
+
+#projectaimg{
+	position: relative;
+	left: 17%;
+	padding-top: 36px;
+}
+#projectbimg{
+	position: relative;
+	left: 27%;
+	padding-top: 18px;
+}
+#projectcimg{
+	position: relative;
+	left: 37.5%;
+	padding-bottom: 50px;
+	
+}
+
+
+
+#tutorialset{
+	background-color: rgb(203,85,28);
+}
+
+#tuttitle{
+	text-align: center;
+	padding-top: 25px;
+	color: white;
+	font-family: "Rockwell", Arial, Helvetica, sans-serif;
+}
+#tutlistul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+
+.tutlist{
+	float: left;
+}
+
+.tutlist a{
+	display: inline-block;
+	color: white;
+	text-decoration: none;
+	font-family: "Agency FB", Arial, Helvetica, sans-serif;
+	font-size: 150%;
+}
+
+#tutoriala{
+	position: relative;
+	left: 22%;
+}
+#tutorialb{
+	position: relative;
+	left: 42%;
+}
+#tutorialc{
+	position: relative;
+	left: 62%;
+}
+
+#tutimgdiv{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+
+.tutimg{
+	float: left;
+}
+
+.tutimg a{
+	display: inline-block;
+}
+
+#tutaimg{
+	position: relative;
+	left: 17%;
+	padding-top: 36px;
+}
+#tutbimg{
+	position: relative;
+	left: 27%;
+	padding-top: 18px;
+}
+#tutcimg{
+	position: relative;
+	left: 37.5%;
+	padding-bottom: 50px;
+	
+}
+
+
+#blogset{
+	background-color: rgb(147,112,219);
+}
+
+#blogtitle{
+	text-align: center;
+	padding-top: 25px;
+	color: white;
+	font-family: "Rockwell", Arial, Helvetica, sans-serif;
+}
+#bloglistul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+
+.blogpostlist{
+	float: left;
+}
+
+.blogpostlist a{
+	display: inline-block;
+	color: white;
+	text-decoration: none;
+	font-family: "Agency FB", Arial, Helvetica, sans-serif;
+	font-size: 150%;
+}
+
+#bloga{
+	position: relative;
+	left: 23%;
+}
+#blogb{
+	position: relative;
+	left: 44%;
+}
+#blogc{
+	position: relative;
+	left: 66%;
+}
+
+#blogimgdiv{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+
+.blogimg{
+	float: left;
+}
+
+.blogimg a{
+	display: inline-block;
+}
+
+#blogaimg{
+	position: relative;
+	left: 17%;
+	padding-top: 36px;
+}
+#blogbimg{
+	position: relative;
+	left: 27%;
+	padding-top: 18px;
+}
+#blogcimg{
+	position: relative;
+	left: 37.5%;
+	padding-bottom: 50px;
+	
+}
+
+#footerbox{
+	height: 150px;
+	width: 100%;
+	margin: 0px auto;
+	background-color: rgb(130,130,130);
+	box-shadow: 0px 0px 0px 10px rgb(130,130,130);
+
+}
+#footerlist{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+
+.footlist{
+	float: left;
+}
+
+.footlist a{
+	display: inline-block;
+	color: white;
+	text-align: center;
+	padding: 7px 100px;
+	text-decoration: none;
+	font-family: "Agency FB", Arial, Helvetica, sans-serif;
+	font-size: 150%;
+}
+
+.bottomlists{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+
+#aboutlist{
+	display: inline-block;
+	padding-left: 4%;
+	text-align: center;
+}
+#projectslist{
+	display: inline-block;
+	padding-left: 9%;
+	text-align: center;
+}
+#tutslist{
+	display: inline-block;
+	padding-left: 12%;
+	text-align: center;
+}
+#bloglist{
+	display: inline-block;
+	padding-left: 12%;
+	text-align: center;
+}
+#contactlist{
+	display: inline-block;
+	padding-left: 13.5%;
+	text-align: center;
+}
+#copyright{
+	text-align: center;
+}
